@@ -1,6 +1,6 @@
 cask "applepie-rpc" do
-  version "0.1.28"
-  sha256 "d65abafcec6d0f274ad4ee06c4d540c42572e9f3e9f44b60b16768f3f00189b1"
+  version "0.1.29"
+  sha256 "0791c1c06168eaf95cee00f4d77f001b2aba5e53ef3e35d06a641eb8fe33cba0"
 
   url "https://github.com/Skyline-23/Applepie-RPC/releases/download/v#{version}/Applepie-RPC-v#{version}.dmg",
       verified: "github.com/Skyline-23/Applepie-RPC/"
